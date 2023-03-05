@@ -432,6 +432,8 @@ hr {
 
 img {
   border-style: solid;
+  width: 100%;
+  height: auto;
 }
 
 textarea {
